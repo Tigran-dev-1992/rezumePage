@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rezumePage/static/css/main.b8ff1776.chunk.css",
+    "main.js": "/rezumePage/static/js/main.7703783d.chunk.js",
+    "main.js.map": "/rezumePage/static/js/main.7703783d.chunk.js.map",
+    "runtime-main.js": "/rezumePage/static/js/runtime-main.d203f9c0.js",
+    "runtime-main.js.map": "/rezumePage/static/js/runtime-main.d203f9c0.js.map",
+    "static/js/2.ad2ea1a2.chunk.js": "/rezumePage/static/js/2.ad2ea1a2.chunk.js",
+    "static/js/2.ad2ea1a2.chunk.js.map": "/rezumePage/static/js/2.ad2ea1a2.chunk.js.map",
+    "static/js/3.2fdb642d.chunk.js": "/rezumePage/static/js/3.2fdb642d.chunk.js",
+    "static/js/3.2fdb642d.chunk.js.map": "/rezumePage/static/js/3.2fdb642d.chunk.js.map",
+    "index.html": "/rezumePage/index.html",
+    "static/css/main.b8ff1776.chunk.css.map": "/rezumePage/static/css/main.b8ff1776.chunk.css.map",
+    "static/js/2.ad2ea1a2.chunk.js.LICENSE.txt": "/rezumePage/static/js/2.ad2ea1a2.chunk.js.LICENSE.txt",
+    "static/media/tik.ef23af85.png": "/rezumePage/static/media/tik.ef23af85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d203f9c0.js",
+    "static/js/2.ad2ea1a2.chunk.js",
+    "static/css/main.b8ff1776.chunk.css",
+    "static/js/main.7703783d.chunk.js"
+  ]
+}
